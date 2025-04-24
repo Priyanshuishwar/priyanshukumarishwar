@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Priyanshu Kumar Ishwar</h1>
 <h3 align="center">A passionate Developer and LeetCode Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Priyanshuishwar" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 🧩 Solved over **300+ problems** so far  
 - 💻 Skilled in `Java`, `HTML`, `CSS`, and `JavaScript`
 - 🌱 Currently exploring `Data Structures`, `System Design`, and full-stack web development
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **your-ishwarpriyanshu2004@gmail.com**
 
 ---
 
